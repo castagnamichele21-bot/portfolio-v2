@@ -62,7 +62,7 @@ Castagna_Michele_Commande2_PortfolioV2/
 ---
 
 ## 🌐 Mise en ligne  
-- **GitHub Pages :** *(tu mettras ton vrai lien ici une fois publié)*  
+- **GitHub Pages :**
   https://castagnamichele21-bot.github.io-portfolio-v2
 
 ---
@@ -80,3 +80,4 @@ Castagna_Michele_Commande2_PortfolioV2/
 
 ## 🕒 Dernière mise à jour  
 Décembre 2025
+
